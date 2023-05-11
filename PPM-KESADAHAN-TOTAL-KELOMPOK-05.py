@@ -12,7 +12,7 @@ if option == 'Tentang Aplikasi dan Kesadahan Total':
     st.subheader('Penjelasan Aplikasi')
     st.write('Aplikasi ini dibuat untuk mempermudah dalam melakukan perhitungan PPM Kesadahan Total yang sering dilakukan saat melakukan suatu analisis dilaboratorium dan harus dilakukan dalam waktu yang singkat. Dengan adanya perkembangan teknologi, aplikasi perhitungan pun dapat dibuat untuk mempermudah dan meminimalisir terjadinya kesalahan dalam perhitungan PPM Kesadahan Total yang dilakukan saat proses analisis dilaboratorium. ')
     st.subheader('Penjelasan Kesadahan Total')
-    st.image(Image.open("Rumus PPM.jpg"))
+    st.image(Image.open('Rumus PPM.jpg'))
     st.write(' Kesadahan total adalah jumlah ion–ion kalsium dan magnesium yang dapat ditentukan melalui titrasi menggunakan EDTA (Etilen Diamin Tetra Asetat) sebagai titran dengan menggunakan indikator EBT, selain itu kesadahan total juga dapat dilakukan dengan proses analisis lainnya. Hasil dari analisis tersebut kemudian dilakukan perhitungan dengan mencari nilai PPM Kesadahan Total dari sampel yang telah dianalisis.  ')
 
 
